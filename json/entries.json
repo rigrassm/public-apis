@@ -3590,7 +3590,7 @@
             "Auth": null,
             "Category": "Video",
             "Description": "TV Show Data",
-            "HTTPS": false,
+            "HTTPS": true,
             "Link": "http://www.tvmaze.com/api"
         },
         {
